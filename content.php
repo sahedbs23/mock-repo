@@ -1,3 +1,3 @@
 <?php
-        echo "armaj";
+        echo "bmggm";
 ?>
