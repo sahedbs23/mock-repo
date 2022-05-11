@@ -1,4 +1,4 @@
 <?php
         echo "qktbu";
-        echo "obnav";
+        echo "ttics";
 ?>
