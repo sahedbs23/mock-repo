@@ -43,5 +43,4 @@
         echo "vvxfb";
         echo "wtfmp";
         echo "diops";
-        echo "kwaaf";
 ?>
