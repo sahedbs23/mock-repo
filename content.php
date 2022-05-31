@@ -3,5 +3,4 @@
         echo "muddo";
         echo "xdbti";
         echo "vlwjh";
-        echo "wsymk";
 ?>
