@@ -15,5 +15,4 @@
         echo "wibhg";
         echo "jjsxm";
         echo "ntwfj";
-        echo "vrlud";
 ?>
