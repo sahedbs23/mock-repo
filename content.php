@@ -25,5 +25,4 @@
         echo "elpmr";
         echo "evjtf";
         echo "wtbtx";
-        echo "loqob";
 ?>
