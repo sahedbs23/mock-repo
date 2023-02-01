@@ -66,5 +66,4 @@
         echo "ybhyv";
         echo "umahy";
         echo "scpwl";
-        echo "ofqhc";
 ?>
