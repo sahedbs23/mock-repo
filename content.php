@@ -65,5 +65,4 @@
         echo "qdyvo";
         echo "ybhyv";
         echo "umahy";
-        echo "secih";
 ?>
