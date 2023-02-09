@@ -23,5 +23,4 @@
         echo "toeir";
         echo "pxxqp";
         echo "stunu";
-        echo "akjku";
 ?>
