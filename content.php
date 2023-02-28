@@ -22,5 +22,5 @@
         echo "xgotk";
         echo "toeir";
         echo "pxxqp";
-        echo "libnc";
+        echo "blfrl";
 ?>
