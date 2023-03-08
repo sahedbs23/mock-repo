@@ -22,5 +22,4 @@
         echo "xgotk";
         echo "toeir";
         echo "lvrxm";
-        echo "oweni";
 ?>
