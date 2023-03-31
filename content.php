@@ -38,5 +38,4 @@
         echo "hmuwo";
         echo "xqkxw";
         echo "fsrwj";
-        echo "gfxww";
 ?>
