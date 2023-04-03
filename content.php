@@ -37,5 +37,4 @@
         echo "xyjis";
         echo "hmuwo";
         echo "fqbow";
-        echo "bvqgk";
 ?>
