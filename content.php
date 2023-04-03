@@ -39,5 +39,4 @@
         echo "xqkxw";
         echo "dpptc";
         echo "yrgkt";
-        echo "pwtnk";
 ?>
