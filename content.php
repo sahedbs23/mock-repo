@@ -64,5 +64,4 @@
         echo "fyyfs";
         echo "snmya";
         echo "fcbmv";
-        echo "icplj";
 ?>
