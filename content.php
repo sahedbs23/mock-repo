@@ -25,5 +25,4 @@
         echo "pfjtp";
         echo "tnfyn";
         echo "yvyqb";
-        echo "vpgvt";
 ?>
