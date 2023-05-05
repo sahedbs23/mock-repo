@@ -26,5 +26,4 @@
         echo "tnfyn";
         echo "hjoup";
         echo "xhxlv";
-        echo "kdalt";
 ?>
