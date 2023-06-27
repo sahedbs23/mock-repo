@@ -69,5 +69,4 @@
         echo "udqns";
         echo "wtvfk";
         echo "xtqqg";
-        echo "rlkur";
 ?>
