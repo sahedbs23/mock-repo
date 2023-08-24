@@ -32,5 +32,4 @@
         echo "lybbd";
         echo "kwvmi";
         echo "qnbxj";
-        echo "qkiyr";
 ?>
