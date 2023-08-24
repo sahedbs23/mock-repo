@@ -70,5 +70,4 @@
         echo "wtvfk";
         echo "xkiew";
         echo "tfuph";
-        echo "vdpnw";
 ?>
