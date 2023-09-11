@@ -30,5 +30,4 @@
         echo "hlxdt";
         echo "tfngp";
         echo "lybbd";
-        echo "ginkj";
 ?>
