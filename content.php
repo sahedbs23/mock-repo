@@ -29,5 +29,4 @@
         echo "ywxjb";
         echo "hlxdt";
         echo "tfngp";
-        echo "tqrbp";
 ?>
