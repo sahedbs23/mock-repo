@@ -66,5 +66,4 @@
         echo "brfcg";
         echo "uwbex";
         echo "jvigs";
-        echo "udqns";
 ?>
