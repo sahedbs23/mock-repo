@@ -27,5 +27,4 @@
         echo "xvlku";
         echo "mgdop";
         echo "jhalw";
-        echo "ullba";
 ?>
