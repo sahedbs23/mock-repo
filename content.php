@@ -67,5 +67,5 @@
         echo "uwbex";
         echo "twclt";
         echo "amsaj";
-        echo "uimbr";
+        echo "ttyio";
 ?>
