@@ -29,4 +29,5 @@
         echo "pwnea";
         echo "atgrp";
         echo "tmmdd";
+        echo "legqu";
 ?>
